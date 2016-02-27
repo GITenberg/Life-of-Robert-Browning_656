@@ -1,0 +1,25 @@
+_repo: Life-of-Robert-Browning_656
+creator:
+  author:
+    agent_name: Sharp, William
+    alias: Macleod, Fiona
+    birthdate: 1855
+    deathdate: 1905
+    gutenberg_agent_id: '337'
+    url: http://www.gutenberg.org/2009/agents/337
+    wikipedia: http://en.wikipedia.org/wiki/William_Sharp_%28writer%29
+description: ''
+gutenberg_issued: '1996-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '656'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Browning, Robert, 1812-1889'
+- !lcsh 'Poets, English -- 19th century -- Biography'
+- !lcc 'PR'
+title: Life of Robert Browning
+url: http://www.gutenberg.org/ebooks/656
