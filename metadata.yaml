@@ -1,5 +1,5 @@
 _repo: Life-of-Robert-Browning_656
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,5 +27,6 @@ subjects:
 - !lcsh 'Browning, Robert, 1812-1889'
 - !lcsh 'Poets, English -- 19th century -- Biography'
 - !lcc 'PR'
+- GITenberg
 title: Life of Robert Browning
 url: http://www.gutenberg.org/ebooks/656
